@@ -1,9 +1,0 @@
----
-title: autotestjB1C84
-description: autotestoFv5OQ_3/3/2020 8:10:13 AM
-tags: [invalid_tag1,invalid_tag2]
-primary_tag: tutorial:product/sapHana
-time: 619
-author_profile: https://github.com/ksAutotests
-author_name: ksAutotests
----
