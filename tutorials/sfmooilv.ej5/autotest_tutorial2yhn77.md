@@ -1,9 +1,9 @@
 ---
-title: autotestUN20H5
-description: autotestNa2o75_4/17/2020 5:17:09 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
+title: autotestzvc338
+description: autotestGUSr85_4/17/2020 5:17:09 AM
+tags: [invalid_tag1,invalid_tag2]
 primary_tag: tutorial:product/sapHana
-time: 65
+time: 830
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
