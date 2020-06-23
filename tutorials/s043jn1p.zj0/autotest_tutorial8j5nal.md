@@ -1,9 +1,9 @@
 ---
-title: autotest61NmAt
-description: autotestR4b062_6/23/2020 5:37:06 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
+title: autotestkLk624
+description: autotest6M1HFP_6/23/2020 5:37:06 AM
+tags: [invalid_tag1,invalid_tag2]
 primary_tag: tutorial:product/sapHana
-time: 878
+time: 112
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
