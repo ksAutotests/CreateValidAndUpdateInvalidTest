@@ -1,9 +1,9 @@
 ---
-title: autotestHL7CFs
-description: autotestq807rm_9/1/2020 8:16:47 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
+title: autotest64o25d
+description: autotest25CHu5_9/1/2020 8:16:47 AM
+tags: [invalid_tag1,invalid_tag2]
 primary_tag: tutorial:product/sapHana
-time: 549
+time: 635
 author_profile: https://github.com/ksAutotests
 author_name: ksAutotests
 ---
